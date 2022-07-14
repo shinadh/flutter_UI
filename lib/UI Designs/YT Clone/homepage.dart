@@ -44,7 +44,7 @@ class _VideoFeedState extends State<VideoFeed> {
       'thumbnail':
           'https://images.unsplash.com/photo-1573523765924-e6c704ce8048?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8MTYlM0E5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
       'title': 'Photography Tips',
-      'date': 'Apr 10, 2019',
+      'date': 'Apr 20, 2019',
       'creator': 'Mohammed Shinadh',
       'profile_url':
           'https://pbs.twimg.com/profile_images/1308872181590286336/Nnwldwpn_400x400.jpg',
